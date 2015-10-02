@@ -1,0 +1,85 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+.skillbar {
+    position: relative;
+
+    display: block;
+    width: 100%;
+    height: 20px;
+    margin-bottom: 15px;
+
+    font-family: "Open Sans", "sans-serif";
+
+    -webkit-transition: .4s linear;
+       -moz-transition: .4s linear;
+        -ms-transition: .4s linear;
+         -o-transition: .4s linear;
+            transition: .4s linear;
+    -webkit-transition-property: width, background-color;
+       -moz-transition-property: width, background-color;
+        -ms-transition-property: width, background-color;
+         -o-transition-property: width, background-color;
+            transition-property: width, background-color;
+
+    -webkit-border-radius: 3px;
+       -moz-border-radius: 3px;
+            border-radius: 3px;
+    background: #eee;
+}
+
+.skillbar-title {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    font-size: 13px;
+    font-weight: bold;
+
+    color: #fff;
+    -webkit-border-top-left-radius: 3px;
+    -moz-border-radius-topleft: 3px;
+            border-top-left-radius: 3px;
+    -webkit-border-bottom-left-radius: 4px;
+    -moz-border-radius-bottomleft: 3px;
+            border-bottom-left-radius: 3px;
+    background: #6adcfa;
+}
+
+.skillbar-title span {
+    display: block;
+    height: 20px;
+    padding: 0 20px;
+
+    line-height: 20px;
+
+    -webkit-border-top-left-radius: 3px;
+    -moz-border-radius-topleft: 3px;
+            border-top-left-radius: 3px;
+    -webkit-border-bottom-left-radius: 3px;
+    -moz-border-radius-bottomleft: 3px;
+            border-bottom-left-radius: 3px;
+    background: rgba(0, 0, 0, .1);
+}
+
+.skillbar-bar {
+    width: 80%;
+    height: 20px;
+
+    -webkit-border-radius: 3px;
+       -moz-border-radius: 3px;
+            border-radius: 3px;
+    background: #6adcfa;
+}
+
+.skill-bar-percent {
+    position: absolute;
+    top: 0;
+    right: 10px;
+
+    height: 20px;
+
+    font-size: 11px;
+    line-height: 20px;
+
+    color: #444;
+    color: rgba(0, 0, 0, .4);
+}

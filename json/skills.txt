@@ -1,0 +1,385 @@
+var skills +AD0-  +AFs-
+    +AHs-
+      +ACI-title+ACI-: +ACI-NPM+ACI-,
+      +ACI-description+ACI-: +ACI-En los desarrollos de aplicaciones web, bien sean est+AOE-ticos o din+AOE-micos, el uso de esta herramienta es esencial, este manejado de paquetes automatiza un sin fin de tareas que me ayudan a la creaci+APM-n y publicaci+APM-n de proyectos, como en la instalaci+APM-n de paquetes y sus dependencias que son de gran utilidad en el desarrollo de mis proyectos, sin preocuparme por ruta, ni requires ya que las tareas las realiza con un alto grado de automatizaci+APM-n.+ACI-,
+      +ACI-domain+ACI-: +ACI-70+ACI-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-ALLOY+ACI-,
+      +ACI-description+ACI-: +ACI-En el desarrollo de proyectos mobiles sobre el sistema operativo Android, es cuando le doy uso a este framework, que en su versi+APM-n mas reciente ha implementado el patr+APM-n MVVM, por lo que me facilita y organiza la estructura de los proyectos, ademas el lenguaje XML de Alloy permite desarrollar Front End muy r+AOE-pidamente con una diversidad de componentes, su consola del lado del cliente permite ejecutar la creaci+APM-n de proyectos y componentes dentro del mismo, o bien integrado al IDE appcelerator titanium.+ACI-,
+      +ACI-domain+ACI-: +ACI-65+ACI-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-LINUX+ACI-,
+      +ACI-description+ACI-: +ACI-Sistema Operativo que uso en ciertos desarrollos, mi experiencia con el mismo pasa por la instalaci+APM-n de diferentes distribuciones, instalaci+APM-n de diferentes aplicaciones, herramientas para desarrollo, servidores web, configuraci+APM-n de diferentes variables, instalaci+APM-n y configuraci+APM-n de bases de datos, uso de manejadores de paquetes de instalaci+APM-n propios de cada sistema y/o instalaciones personalizadas, manejo de comandos de consola, permisolog+AO0-a, manejo de usuarios entre otras cosas dicte c+AOE-tedra del sistema operativo linux en el curso Programa de Desarrolladores de Software dictado por la empresa IBM, en la cual me desempe+APE-e como Instructor Certificado. +ACI-,
+      +ACI-domain+ACI-: +ACI-60+ACI-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-ECLIPSE+ACI-,
+      +ACI-description+ACI-: +ACI-En los desarrollos de aplicaciones web din+AOE-micos, JEE usando el framework ZK, utilizo este ambiente integrado de desarrollo, es una herramienta muy +APo-til y flexible por a cantidad de Plugins asociados que permiten multiplicidad de tareas diferentes e un mismo IDE, la integraci+APM-n directa de los servidores web, tal como tomcat, jetty, glassfish, entre otros permite desarrollos efectivos, tambi+AOk-n se integra con otras herramientas como los manejadores de paquetes maven, o la ejecuci+APM-n de tareas como Apache Ant, Buckmister, integrado originalmente con equinox que nos brinda la posibilidad real de realizar proyectos completamente modulares, mi experiencia y conocimiento en la herramienta me hace considerarlo como el ambiente de desarrollo java mas eficaz que uso+ACI-,
+      +ACI-domain+ACI-: +ACI-90+ACI-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-GIT-HUB+ACI-,
+      +ACI-description+ACI-: +ACI-He usado este sitio para alojar aplicaciones que aun est+AOE-n en fase de desarrollo, para compartir f+AOE-cilmente el repositorio con los participantes del grupo de desarrollo, de cualquier forma para desarrollo es muy +APo-til si la aplicaci+APM-n esta basada en Git, permite conexiones con otros repositorios de la nube lo cal es conveniente si se quiere mantener respaldos de las aplicaciones de una repositorio a otro realizando sincronizaci+APM-n entre ellos. Por ejemplo entre git-hub y heroku u openshift,+ACI-,
+      +ACI-domain+ACI-: +ACI-70+ACI-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-APACHE TOMCAT+ACI-,
+      +ACI-description+ACI-: +ACI-Servidor de aplicaciones java para servlets, es el servidor que mas uso al desarrollar aplicaciones web java, se integra autom+AOE-ticamente con el IDE Eclipse y es posible realizar una serie de configuraciones a cada aplicaci+APM-n, su flexibilidad permite la integraci+APM-n con ZK framework, tanto en funci+APM-n de su configuraci+APM-n como en la extensi+APM-n de witgets del mismo, su configuraci+APM-n e inicializaci+APM-n de propiedades es sencilla permitiendo desde seguridad hasta balanceo de cargas, muy sencillo en las operaciones de despliegue de aplicaciones, las librer+AO0-as pueden ser descargadas en su propia carpeta lib, aminorando el peso de las aplicaciones, y se instala apropiada y establemente tanto en linux como en windows. +ACI-,
+      +ACI-domain+ACI-: +ACI-80+ACI-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-HEROKU+ACI-,
+      +ACI-description+ACI-: +ACI-Usando este sitio para el alojamiento de aplicaciones web din+AOE-micas usando javascript, node.js como servidor usando express.js, es r+AOE-pido usa git o hg para la sincronizaci+APM-n de la aplicaci+APM-n desde el escritorio hacia la nube, actualiza el repositorio mediante la consola heroku. +ACI-,
+      +ACI-domain+ACI-: +ACI-50+ACI-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-GIT+ACI-,
+      +ACI-description+ACI-: +ACI-Utilizo este manejador de versiones distribuido, tanto en las aplicaciones con el IDE Eclipse como los desarrollos de javascript html node, es f+AOE-cil de usar y sus comandos ya son el standar para el alojamiento distribuido de varios sitios de la nube, el cual nos facilita la distribuci+APM-n a el equipo de trabajo de los proyectos. Tambi+AOk-n me ha sido +APo-til para la clonaci+APM-n de otros proyectos open-source que he usado en la integraci+APM-n y/o adaptaci+APM-n de los mismos.+ACI-,
+      +ACI-domain+ACI-: +ACI-60+ACI-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-BOOSTRAP+ACI-,
+      +ACI-description+ACI-: +ACI-El framework Boostrap, esta entre mis herramientas de uso continuo, me ha permitido integraci+APM-n limpia sin conflictos en ZK, su interfaz gr+AOE-fica plana y minimalista, su utilizaci+APM-n de iconos tipo fuentes, su gran dominio de la grid y response me permiten desarrollos simples sin dolores de cabeza en cuanto a disponer los componentes html en el Front End HTML.+ACI-,
+      +ACI-domain+ACI-: +ACI-85+ACI-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-YEOMAN+ACI-,
+      +ACI-description+ACI-: +ACI-Si me refiero a la productividad, despu+AOk-s de haber iniciado camino en el desarrollo con Angular.js este framework de google no te indica en su especificaci+APM-n cual deber+AO0-a ser la estructura mas id+APM-nea para desarrollar aplicaciones, El uso de YEOMAN me permiti+APM- aumentar la productividad con sus generadores y manejadores de librer+AO0-as, en solo 10 minutos se es capaz de generar todo un template con toda su estructura de un proyecto Node, Javascript. Se apoya en yo, grunt y bower para realizar las tareas de automatizacion y generar scaffolding.+ACI-,
+      +ACI-domain+ACI-: +ACI-80+ACI-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-GRUNT+ACI-,
+      +ACI-description+ACI-: +ACI-Este gestor de tareas espec+AO0-fico para Javascript, nos permite realizar las tareas m+AOE-s comunes en mi c+APM-digo Javascript, como pueden ser el control de calidad(JSLint), la ofuscaci+APM-n, minimizaci+APM-n, concatenaci+APM-n de archivos, optimizaci+APM-n de im+AOE-genes, Compilaci+APM-n ( SASS -+AD4- CSS y otros), entre otros posee cerca de 5000 plugins y siguen gener+AOE-ndose mas, tambi+AOk-n nos es +APo-til para automatizar el pase de una bater+AO0-a de test antes de realizar estos pasos, lo que nos facilita el desarrollo y nos provee de productividad.+ACI-,
+      +ACI-domain+ACI-: +ACI-80+ACI-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-CSS+ACI-,
+      +ACI-description+ACI-: +ACI-El lenguaje de hojas de estilo en cascada, es la implementaci+APM-n mas efectiva para mantener separados los estilos aplicados a el contenido de una pagina html, en cada una de las versiones la contribuci+APM-n al desarrollo html es mas y mas poderoso, conocer suficiente de como es su uso es lo que nos permite crear desde transparencias a slides, desde armonizar colores, a situar componentes, sin tener que administrar el arbol de representaci+APM-n del documento DOM , mediante clases, tags, me es posible transformar completamente el estilo de una pagina y crear componentes de navegacion con CSS.+ACI-,
+      +ACI-domain+ACI-: +ACI-90+ACI-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-BOWER+ACI-,
+      +ACI-description+ACI-: +ACI-Para desarrollar web y m+APM-vil con HTML5 est+AOE- Bower, un gestor de paquetes frontend me facilita la administraci+APM-n de dependencias en los proyectos. Esto es algo esencial porque me permite instalar y actualizar las dependencias de una forma simple. De esta forma todos los miembros del equipo tenemos la misma versi+APM-n de las librer+AO0-as usadas sin tenerlas que incluir en el repositorio de c+APM-digo, manteni+AOk-ndolo limpio y +APo-nicamente con el c+APM-digo de nuestra web o aplicaci+APM-n m+APM-vil. Adem+AOE-s permite conocer de una manera r+AOE-pida y sencilla todas las dependencias de los proyectos y la versi+APM-n de las librer+AO0-as que se est+AOE-n usando.+ACI-,
+      +ACI-domain+ACI-: +ACI-60+ACI-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-JAVA+ACI-,
+      +ACI-description+ACI-: +ACI-Al comenzar el camino para desarrollos web, como aplicaciones, evalu+AOk- que lenguaje utilizar, el mas flexible que me permit+AO0-a una gran cantidad de ventajas fue, Java, es flexible, multiplataforma, orientado a objetos, es libre, posee librer+AO0-as de todo tipo enfocadas a resolver temas espec+AO0-ficos, existen librer+AO0-as que mejoran rendimiento y resoluci+APM-n de tareas mas que las originales de java como por ejemplo Joda-Time, su JVM existen para n cantidad de plataformas incluso para Android, tiene soporte y documentaci+APM-n por doquier, es el que normalmente uso para los proyectos de aplicaciones WEB. Permite la generaci+APM-n y consumo de servicios, bien del tipo SOAP o Restful, compatibilidad con XML, JSON, uso de objetos Beans, transformaci+APM-n de objetos a dichas representaciones, y mas recientemente integraci+APM-n de Javascript para interactuar con valores almacenados en memoria por Javascript, ademas se han generado una cantidad de framework para el desarrollo WEB, cada uno enfocando la resoluci+APM-n de formas diferentes y no se ha quedado pasivo por el contrario todo el tiempo esta en desarrollo.+ACI-,
+      +ACI-domain+ACI-: +ACI-90+ACI-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-ANGULAR+ACI-,
+      +ACI-description+ACI-: +ACI-El Framework de Google para javascript del lado cliene y servidor, ha evolucionado como para ofrecer algo que otro no ofrec+AO0-an en determinado momento, y es extender las posibilidades del HTML, este framework posee unas ventajas que lo hacen mi favorito a la hora de crear proyectos web basados en Javascript, su patron de MV+ACo- (Modelo, Vista, Lo que sea) es el mas flexible que he utilizado, aunado a ello su binding two way me provee la facilidad pasmosa de mantener actualizados la data del front end con la del modelo, y por ende el Back End, por otra parte el escribir menos c+APM-digo te hace mas productivo est+AOE- suficientemente documentado y sigue en desarrollo continuo en manos de la comunidad de Google. De hecho a pesar de que esta pagina es est+AOE-tica usa Angular para mostrar justamente esto que lees en este momento.+ACI-,
+      +ACI-domain+ACI-: +ACI-70+ACI-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-IMPRESS+ACI-,
+      +ACI-description+ACI-: +ACI-Esta libreria Javascript me ha permitido la facilidad de utilizar slides, rotaciones, 3D, transiciones, para hacer de las paginas mas interactivas y navegables, de hecho las opciones de men+APo- como las acciones que se realizan con el teclado en esta pagina est+AOE-n soportadas por impress.js, se sencillo de utilizar lo que me permite ser mas productivo al enfocarme en el contenido de la pagina ya que se tiene resuelta la forma de navegar de forma interactiva y sencilla, ademas esta dise+APE-ada para realizar presentaciones del tipo Prezi, pero al ser Javascript me da la facilidad de usarla junto a otras librer+AO0-as que tiene otras actividades a resolver. +ACI-,
+      +ACI-domain+ACI-: +ACI-50+ACI-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-JAVASCRIPT+ACI-,
+      +ACI-description+ACI-: +ACI-Uso Javascript, y hasta VBScript desde hace mucho tiempo, sin embargo la comunidad que respalda el lenguaje ha hecho de su desarrollo una evoluci+APM-n constante de lo que se puede hacer con el, actualmente es el lenguaje mas +APo-til en cuanto a front end web que se pueda imaginar, su flexibilidad de uso hace posible que puedas ir desde un tipo de programaci+APM-n estructurada, pasando por orientada a objetos, para llegar a funcional, posee documentaci+APM-n de todo tipo al alcance de todos, librer+AO0-as, plugins frameworks y optimizaci+APM-n del engine de ejecuci+APM-n que ya no se habla de ser lento en la web ni en el browser y ahora como servidor, cada vez es mas y mas utilizado para hacer aplicaciones cliente-servidor usando Node.js como soporte en el servidor. +ACI-,
+      +ACI-domain+ACI-: +ACI-70+ACI-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-HTML5+ACI-,
+      +ACI-description+ACI-: +ACI-La m+AOE-s reciente versi+APM-n de HTML, la cual despliega un amplio potencial para realizar proyectos no solo en el +AOE-mbito del Navegador de escritorio, sino que permite utilizar el mismo desarrollo para web mobile, y aplicaciones especificas de smartphones, utilizo este lenguaje de marcado para desarrollar tanto aplicaciones web, como p+AOE-ginas est+AOE-ticas, al realizar aplicaciones utilizando un conjunto de librer+AO0-as bien de Javascript, bien con el uso de CSS, se crean p+AOE-ginas como por ejemplo este resumen laboral al que estas accediendo.+ACI-,
+      +ACI-domain+ACI-: +ACI-95+ACI-,
+      +ACI-productivity+ACI-:+ACI-99+ACI-,
+      +ACI-usability+ACI-:+ACI-95+ACI-
+
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-NODE.JS+ACI-,
+      +ACI-description+ACI-: +ACI-Este es un entorno de programaci+APM-n en la capa del servidor, aunque no se limita solo a ello, basado en el lenguaje de programaci+APM-n ECMAScript, as+AO0-ncrono, con I/O de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google. He utilizado este entorno para realizar aplicaciones completas cliente-servidor javascript, frontend basadas en HTML, CSS, librer+AO0-as Javascript y servicios REST en servidor Javascript con transferencia de datos en objetos JSON, m+AOE-xima escalabilidad , en el desarrollo de aplicaciones.+ACI-,
+      +ACI-domain+ACI-: +ACI-70+ACI-,
+      +ACI-productivity+ACI-:+ACI-90+ACI-,
+      +ACI-usability+ACI-:+ACI-75+ACI-
+ 
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-MICROSOFT OFFICE+ACI-,
+      +ACI-description+ACI-: +ACI-Uso la herramienta para la documentaci+APM-n inherente a informes y/o transcripciones, an+AOE-lisis de requerimientos, dicte clases de dicha SUITE por lo que mi desempe+APE-o en dicha herramienta va desde la creaci+APM-n de indices, tablas de contenido, a creaci+APM-n de macros usando VisualBasic for application, en sus tres principales herramientas Excel, World, PowerPoint, actualmente uso una SUITE free que ocupa mucho menos requerimientos para realizar el mismo trabajo+ACI-,
+      +ACI-domain+ACI-: +ACI-90+ACI-,
+      +ACI-productivity+ACI-:+ACI-50+ACI-,
+      +ACI-usability+ACI-:+ACI-30+ACI-
+
+   +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-PHOTOSHOP+ACI-,
+      +ACI-description+ACI-: +ACI-Es l+AO0-der mundial del mercado de las aplicaciones de edici+APM-n de im+AOE-genes, lo uso frecuentemente al generar el ambiente gr+AOE-fico, im+AOE-genes iconos que uso en las plantillas y/o front end de una aplicaci+APM-n web, desde el retoque de logotipos a creaci+APM-n de favicon, retoques utilizando una amplia gama de filtros y plugins que permite realizar el arte gr+AOE-fico de una pagina, o aplicaci+APM-n para smatphones, sin duda es el mejor editor gr+AOE-fico que he usado, permitiendo productividad y rendimiento al m+AOE-ximo.+ACI-,
+      +ACI-domain+ACI-: +ACI-60+ACI-,
+      +ACI-productivity+ACI-:+ACI-90+ACI-,
+      +ACI-usability+ACI-:+ACI-80+ACI-
+
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-ADOBE ILLUSTRATOR+ACI-,
+      +ACI-description+ACI-: +ACI-Editor de gr+AOE-ficos vectoriales destinado a la creaci+APM-n art+AO0-stica de dibujo e ilustraci+APM-n como rama del arte digital aplicado a la ilustraci+APM-n t+AOk-cnica o el dise+APE-o gr+AOE-fico, es la herramienta en la cual creo logo-tipos, o arte gr+AOE-fico de una empresa en especifico que lo requiera al momento de realizar un desarrollo y dise+APE-o de paginas web+ACI-,
+      +ACI-domain+ACI-: +ACI-50+ACI-,
+      +ACI-productivity+ACI-:+ACI-60+ACI-,
+      +ACI-usability+ACI-:+ACI-50+ACI-
++MAAwADAAAH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-SUBLIME TEXT+ACI-,
+      +ACI-description+ACI-: +ACI-Sin duda alguna mi mejor editor de texto y editor de c+APM-digo fuente est+AOE- escrito en C+-+- y Python para infinidad de plugins. Lo uso como el editor de texto por defecto y en cada una de los desarrollos de aplicaciones en Javascipt, ya que sus plugins me permiten integrarlo a una amplia cantidad de tecnologias, librerias, lenguajes entre otros, puedo usarlo con el entorno de servicio NODE.JS, usando la amplia gama de gestores asociados a estas tecnologias tal es el caso de bower, NPM, YEOMAN entre otras.
++ACI-,
+      +ACI-domain+ACI-: +ACI-95+ACI-,
+      +ACI-productivity+ACI-:+ACI-98+ACI-,
+      +ACI-usability+ACI-:+ACI-90+ACI-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-COUCHDB+ACI-,
+      +ACI-description+ACI-: +ACI-Gestor de bases de datos de c+APM-digo abierto, cuyo foco est+AOE- puesto en la facilidad de su uso y en ser (una base de datos que asume la web de manera completa). Se trata de una base de datos NoSQL que emplea JSON para almacenar los datos, JavaScript como lenguaje de consulta por medio de MapReduce y HTTP como API, lo que me permiti+APM- generar una aplicaci+APM-n Mobile para android que mediante servicios RESTful accediera a data almacenada en forma de documentos, con una facilidad y velocidad extrema si se compara con las DB RDBMS. En un enfoque completamente diferente es posible sacar la m+AOE-xima productividad de este tipo de nuevas tecnolog+AO0-as.+ACI-,
+      +ACI-domain+ACI-: +ACI-60+ACI-,
+      +ACI-productivity+ACI-:+ACI-95+ACI-,
+      +ACI-usability+ACI-:+ACI-60+ACI-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-MYSQL+ACI-,
+      +ACI-description+ACI-: +ACI-MySQL utilizado en aplicaciones web, en diferentes plataformas como (Linux/Windows-Apache-MySQL-PHP/Perl/Python). MySQL es una base de datos r+AOE-pida en la lectura cuando utiliza el motor no transaccional MyISAM. En aplicaciones web hay baja concurrencia en la modificaci+APM-n de datos y en cambio el entorno es intensivo en lectura de datos, lo que hace a MySQL ideal para este tipo de aplicaciones, cuando de RDBMS se trata.+ACI-,
+      +ACI-domain+ACI-: +ACI-80+ACI-,
+      +ACI-productivity+ACI-:+ACI-85+ACI-,
+      +ACI-usability+ACI-:+ACI-90+ACI-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-MICROSOFT WINDOWS+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-ANDROID+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-JETTY+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-BITBUCKET+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-ZK+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-INTELLIJ IDEA+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-JETBRAINS WEBSTORM+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-APPCELERATOR+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-OSGI+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-EQUINOX+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-MAVEN+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-APACHE FELIX+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-EXTREME PROGRAMMING+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-APACHE ANT+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-XSTREAM+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-LENGUAJE UNIFICADO DE MODELADO (UML)+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-XML+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-JSON+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-RESTFUL+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-RESTLET+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-JASPERREPORT+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-JERSEY+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-JAX-RX+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACI-90+ACI-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-GLASSFISH+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACI-70+ACI-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-NETBEANS IDE+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACI-60+ACI-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-TORTOISESVN+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACI-70+ACI-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-SPRING SECURITY+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-SEO+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-COREL DRAW+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-DISE+ANE-O UX+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-OPENSHIFT+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACI-JENKINS+ACI-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-,
+    +AHs-
+      +ACI-title+ACI-: +ACIAIg-,
+      +ACI-description+ACI-: +ACIAIg-,
+      +ACI-domain+ACI-: +ACIAIg-,
+      +ACI-productivity+ACI-:+ACIAIg-,
+      +ACI-usability+ACI-:+ACIAIg-
+    +AH0-
+  +AF0-
